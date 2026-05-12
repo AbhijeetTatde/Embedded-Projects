@@ -9,7 +9,7 @@
 #include <Adafruit_BMP280.h>
 #include <DHT.h>
 
-char ssid[] = "Chhaya";
+char ssid[] = "Redmi";
 char pass[] = "123456789";
 
 #define DHT_PIN D1
